@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:02.175696
+#+DATE: 2015-08-30 20:47:09.348111
 #+TITLE: 阿毘達磨集異門足論
 #+PROPERTY: CBETA_ID T26n1536
 #+PROPERTY: ID KR6l0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1536
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0001_T_014-0424c> 
 #+PROPERTY: JUAN 14
 ¶
-
- 《阿毘達磨集異門足論》卷第十四¶
+《阿毘達磨集異門足論》卷第十四¶
 ¶
 尊者舍利子說¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 五法品第六之四
-:END:
-¶
+五法品第六之四¶
 
 復次具壽若諸苾芻苾芻尼等。雖無大師。¶
 或餘隨一尊重有智同梵行者。為說法要亦¶

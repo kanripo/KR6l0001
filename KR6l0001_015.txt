@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:02.194750
+#+DATE: 2015-08-30 20:47:09.367895
 #+TITLE: 阿毘達磨集異門足論
 #+PROPERTY: CBETA_ID T26n1536
 #+PROPERTY: ID KR6l0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1536
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6l0001_T_015-0428c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 15
 ¶
 ¶
-
- 《阿毘達磨集異門足論》卷第十五¶
+《阿毘達磨集異門足論》卷第十五¶
 ¶
 尊者舍利子說¶
 三藏法師玄奘奉　詔譯¶
 
-7六法品
-:PROPERTIES:
-:head: 六法品第七之一
-:END:
-¶
+六法品第七之一¶
 
 時舍利子復告眾言。具壽當知。佛於六法自¶
 善通達現等覺已。為諸弟子宣說開示。我等¶
@@ -320,7 +315,7 @@
 意悅意。攝受歡喜無違無諍一趣。於大師所¶
 者。云何大師。答一切如來應正等覺。說名大¶
 師。及諸有智同梵行者。云何有智同梵行者。¶
-答解憍陳那乃至廣說。是名有智同梵行者。¶
+答解憍陣那乃至廣說。是名有智同梵行者。¶
 起慈身業者。云何慈身業。答興起俱行哀愍¶
 俱行所有身業。此中意說名慈身業。於大師¶
 所。及諸有智同梵行者。此慈身業和合現前。¶
