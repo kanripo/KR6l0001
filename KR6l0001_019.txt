@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:02.291174
+#+DATE: 2015-08-30 20:47:10.337014
 #+TITLE: 阿毘達磨集異門足論
 #+PROPERTY: CBETA_ID T26n1536
 #+PROPERTY: ID KR6l0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1536
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0001_T_019-0445b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 19
 ¶
 ¶
-
- 《阿毘達磨集異門足論》卷第十九¶
+《阿毘達磨集異門足論》卷第十九¶
 ¶
 尊者舍利子說¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 八法品第九之二
-:END:
-¶
+八法品第九之二¶
 
 八勝處者云何為八。答內有色想觀外色少。¶
 若好若惡於彼諸色。勝知勝見有如是想。是¶
@@ -80,11 +76,7 @@
 者。謂此青色能現能發種種光明。故說青光。¶
 餘如前說。如說若青等。若黃等亦爾。¶
 
-10九法品
-:PROPERTIES:
-:head: 九法品第十
-:END:
-¶
+九法品第十¶
 
 時舍利子復告眾言。具壽當知。佛於九法自¶
 善通達現等覺已。為諸弟子宣說開示。我等¶
@@ -176,11 +168,7 @@
 前說超一切色想等如八解脫中廣說。然於¶
 此中唯取有漏受想行識為有情居。¶
 
-11十法品
-:PROPERTIES:
-:head: 十法品第十一之一
-:END:
-¶
+十法品第十一之一¶
 
 時舍利子復告眾言。具壽當知。佛於十法自¶
 善通達現等覺已。為諸弟子宣說開示。我等¶

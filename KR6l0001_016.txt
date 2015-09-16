@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:02.215272
+#+DATE: 2015-08-30 20:47:10.263635
 #+TITLE: 阿毘達磨集異門足論
 #+PROPERTY: CBETA_ID T26n1536
 #+PROPERTY: ID KR6l0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1536
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0001_T_016-0432c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 《阿毘達磨集異門足論》卷第十六¶
+《阿毘達磨集異門足論》卷第十六¶
 ¶
 尊者舍利子說¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 六法品第七之二
-:END:
-¶
+六法品第七之二¶
 
 六順明分想者。云何為六。答一無常想。二無¶
 常苦想。三苦無我想。四厭食想。五一切世間¶
@@ -230,11 +226,7 @@
 梵行已立。所作已辦。不受後有。是名白生類¶
 補特伽羅生起非黑非白涅槃法。¶
 
-8七法品
-:PROPERTIES:
-:head: 七法品第八之一
-:END:
-¶
+七法品第八之一¶
 
 時舍利子復告眾言。具壽當知。佛於七法自¶
 善通達現等覺已。為諸弟子宣說開示。我等¶

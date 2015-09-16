@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:01.934193
+#+DATE: 2015-08-30 20:47:09.958091
 #+TITLE: 阿毘達磨集異門足論
 #+PROPERTY: CBETA_ID T26n1536
 #+PROPERTY: ID KR6l0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1536
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0001_T_004-0379c> 
 #+PROPERTY: JUAN 4
 ¶
-
- 《阿毘達磨集異門足論》卷第四¶
+《阿毘達磨集異門足論》卷第四¶
 ¶
 尊者舍利子說¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 三法品第四之二
-:END:
-¶
+三法品第四之二¶
 
 電光喻心云何。答如世尊說。苾芻當知。世有¶
 一類補特伽羅。居阿練若或居樹下或住空¶
@@ -87,7 +83,7 @@
 少花鬘未冠其首。有諸尊者持妙花鬘。謂嗢¶
 鉢羅瞻博迦等。隨其所好而授與之。諸女爾¶
 時歡喜踊躍。恭敬受取冠在頂上。深心愛翫¶
-終無遺失。如是一類補特伽羅。為聽法故苾¶
+終無遣失。如是一類補特伽羅。為聽法故苾¶
 芻前坐。乃至善知所說義趣。是名廣慧補特¶
 伽羅。問何故名廣慧補特伽羅。答彼有是慧¶
 在法座時。於所說法初中後分隨所欲知。以¶

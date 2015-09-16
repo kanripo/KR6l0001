@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:02.004257
+#+DATE: 2015-08-30 20:47:10.025328
 #+TITLE: 阿毘達磨集異門足論
 #+PROPERTY: CBETA_ID T26n1536
 #+PROPERTY: ID KR6l0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1536
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6l0001_T_007-0393c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
-
- 《阿毘達磨集異門足論》卷第七¶
+《阿毘達磨集異門足論》卷第七¶
 ¶
 尊者舍利子說¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 四法品第五之二
-:END:
-¶
+四法品第五之二¶
 
 四智者。謂法智類智他心智世俗智。法智云¶
 何。答緣欲界行諸無漏智。緣欲界行因諸無¶
