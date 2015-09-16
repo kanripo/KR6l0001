@@ -1,25 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:01.956306
+#+DATE: 2015-08-30 20:47:04.676799
 #+TITLE: 阿毘達磨集異門足論
 #+PROPERTY: CBETA_ID T26n1536
 #+PROPERTY: ID KR6l0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1536
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0001_T_005-0384b> 
 #+PROPERTY: JUAN 5
 ¶
-
- 《阿毘達磨集異門足論》卷第五¶
+《阿毘達磨集異門足論》卷第五¶
 ¶
 尊者舍利子說¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 三法品第四之三
-:END:
-¶
+三法品第四之三¶
 
 三受者。一樂受。二苦受。三不苦不樂受。樂受¶
 云何。答順樂受觸所生身樂心樂平等受受¶
@@ -59,7 +55,7 @@
 何。答諸身所有由苦苦故苦。所以者何。依身¶
 生起老病死等種種苦故。壞苦性云何。答如¶
 世尊說可意朋友可意眷屬可意境界。若變¶
-壞時。若遭毀謗𣣋蔑等時。發生愁歎憂苦悲¶
+壞時。若遭毀謗[夌*欠]蔑等時。發生愁歎憂苦悲¶
 惱。彼於爾時由壞苦故苦。行苦性云何。答除¶
 苦苦性及壞苦性。諸餘有漏行由行苦故苦。¶
 三慢類者。一我勝慢類。二我等慢類。三我劣¶

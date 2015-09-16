@@ -1,25 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:02.266769
+#+DATE: 2015-08-30 20:47:05.006621
 #+TITLE: 阿毘達磨集異門足論
 #+PROPERTY: CBETA_ID T26n1536
 #+PROPERTY: ID KR6l0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1536
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@NANZANG
 #+PROPERTY: LASTPB <pb:KR6l0001_T_018-0440c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 18
 ¶
-
- 《阿毘達磨集異門足論》卷第十八¶
+《阿毘達磨集異門足論》卷第十八¶
 尊者舍利子說¶
 三藏法師玄奘奉　詔譯¶
 
-9八法品
-:PROPERTIES:
-:head: 八法品第九之一
-:END:
-¶
+八法品第九之一¶
 
 時舍利子復告眾言。具壽當知。佛於八法自¶
 善通達現等覺已。為諸弟子宣說開示。我等
