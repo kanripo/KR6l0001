@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:02.151609
+#+DATE: 2015-08-30 20:47:08.419745
 #+TITLE: 阿毘達磨集異門足論
 #+PROPERTY: CBETA_ID T26n1536
 #+PROPERTY: ID KR6l0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1536
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0001_T_013-0420c> ¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 《阿毘達磨集異門足論》卷第十三¶
+《阿毘達磨集異門足論》卷第十三¶
 ¶
 尊者舍利子說¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 五法品第六之三
-:END:
-¶
+五法品第六之三¶
 
 五能忍功德者。一者不暴惡。二者不憂悔。¶
 三者眾生愛樂。四者十方善名流布。五者身¶

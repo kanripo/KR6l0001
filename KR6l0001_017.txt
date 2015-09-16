@@ -1,26 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:47:02.242990
+#+DATE: 2015-08-30 20:47:08.520136
 #+TITLE: 阿毘達磨集異門足論
 #+PROPERTY: CBETA_ID T26n1536
 #+PROPERTY: ID KR6l0001
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1536
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6l0001_T_017-0436c> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 17
 ¶
 ¶
-
- 《阿毘達磨集異門足論》卷第十七¶
+《阿毘達磨集異門足論》卷第十七¶
 ¶
 尊者舍利子說¶
 三藏法師玄奘奉　詔譯¶
 
-:PROPERTIES:
-:head: 七法品第八之二
-:END:
-¶
+七法品第八之二¶
 
 七非妙法者云何為七。答一不信。二無慚。三¶
 無愧。四懈怠。五失念。六不定。七惡慧。云何¶
